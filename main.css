@@ -1,0 +1,46 @@
+body {
+    background-color: #D3E5FD;
+    border: 1px solid red;
+    
+}
+main {
+    background-color: #FDFEFF;
+    border: 1px solid red;
+    color: #3D4CD5;
+    width: 80%;
+    margin: 10% 10%;
+    font-family:Arial, Helvetica, sans-serif;
+    min-height: 600px;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+
+
+}
+main header { 
+    font-size: 50px;
+    text-transform: capitalize;
+    border: 1px solid red;
+    padding: 40px 0;
+
+
+}
+.forms {
+    border: 1px solid red;
+}
+form div {
+    display: flex;
+    
+}
+
+.initials {
+    background-color: #E7E9FE
+}
+.emailphone {
+    background-color: #DDE0FF;
+}
+
+footer {
+    border: 1px solid red;
+    color: #82CBB8;
+}
